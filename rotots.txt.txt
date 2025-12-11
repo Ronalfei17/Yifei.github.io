@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ronalfei17.github.io/Yifei_CTZTC.uk/sitemap.xml
